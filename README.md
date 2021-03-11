@@ -15,7 +15,7 @@ srand(time(NULL));
 for(i=0;i<Msize;i++)
 {
 	for(j=0;j<Msize;j++)
-	{
+	
 		if(i==j)
 		{
 			printf("1 ");
